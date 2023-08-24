@@ -32,7 +32,7 @@
 | 19   | VANSHIKA GUPTA (RA2111028010132)           | 1     |      |         |
 | 20   | ANOUSHKA SANJEEV (RA2111028010172)         | 1     |      |         |
 | 21   | TAMARANI VENKATA JYOTHENDRA (RA2111028010210)| 1     |      |         |
-| 22   | AKSHAT PANDE  (RA2111030010057)            | 1     |      |         |
+| 22   | AKSHAT PANDE  (RA2111030010057)            | 1     |   https://github.com/ClownY-Dev/18CSE301J---Safeguarding-CryptoWallets   |         |
 | 23   | VIVIDH PANDEY (RA2111030010095)            | 1     |      |         |
 | 24   | KARTIK ARORA (RA2111030010102)             | 1     |      |         |
 | 25   | ARNAV SHUKLA (RA2111050010001)             | 1     |      |         |
